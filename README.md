@@ -1,7 +1,6 @@
 # PredictionPipelineMS2020
 
-This repository contains data and source code used for M.S. Thesis: "Optimizing a Prediction Pipeline by Prepending an Efficient Low-Fidelity Model", SFSU, December 2020.
-Link to the published thesis will be shared here when it is available.
+This repository contains data and source code used for M.S. Thesis: "Optimizing a Prediction Pipeline by Prepending an Efficient Low-Fidelity Model", SFSU, December 2020 (https://scholarworks.calstate.edu/concern/theses/6682x939f).
 
 * `data`: (links to) the dataset used in this research.
 * `python`: Jupyter notebook and python packages/tools used to produce graphs and (most of the) experimental results.
